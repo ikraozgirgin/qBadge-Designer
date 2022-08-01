@@ -1,1 +1,0 @@
-# qBadge-Designer
