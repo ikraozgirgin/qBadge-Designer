@@ -5,22 +5,18 @@
 ---
 # Arayüz Fotoğrafları
 ![qBadge Designer7](https://user-images.githubusercontent.com/69799407/182142915-2907691f-43cc-49c0-a4df-959f6f536726.png)
-![qBadge Designer](https://user-images.githubusercontent.com/69799407/182142925-cc878324-04f0-4553-a254-69a1e49eef6f.png)
-![qBadge Designer2](https://user-images.githubusercontent.com/69799407/182142950-145ec05f-d1b2-4b35-a5b0-2dbabcd55008.png)
-![qBadge Designer3](https://user-images.githubusercontent.com/69799407/182150770-3188d1c8-66ae-4acc-806c-208769d53f2a.png)
-![qBadge Designer4](https://user-images.githubusercontent.com/69799407/182142968-fd98151d-d746-4b6e-b1b8-7ba80c28d6dc.png)
-![qBadge Designer5](https://user-images.githubusercontent.com/69799407/182142979-2e139962-fd40-441f-af7a-3828886181c3.png)
-![qBadge Designer6](https://user-images.githubusercontent.com/69799407/182142994-eb6b047e-61d3-45bd-bbed-c9bba430d3db.png)
+
+![qBadgeDesigner (3)](https://user-images.githubusercontent.com/69799407/182154720-70865a05-aea3-47f6-91f0-d2822562f586.png)
 ---
 ## Yetenekler
--Şekil menüsü ile, çeşitli rozet şekilleri ekleyerek, şekiller üzerinde düzenlemeler yapabilirsiniz.
--Renk menüsü ile, eklediğiniz şekillerin ve metinlerin renklerini değiştirebilirsiniz.
--Ekleyeceğiniz metni 5 farklı fontta yazabilirsiniz.
--Hazır rozetlerden seçebilir ya da bilgisayarınızdan dilediğiniz resmi ekleyebilirsiniz.
--Tasarımınıza istediğiniz renkte çizgiler ekleyebilirsiniz.
--Tasarımınız üzerinde değişikler yapabilir. 
--Bitirdikten sonra fotoğraf biçiminde indirebilirsiniz. 
--Kaydettiğiniz takdirde istediğiniz zaman erişim sağlayıp düzenlemelerinize devam edebilirsiniz.
+-Şekil menüsü ile, çeşitli rozet şekilleri ekleyerek, şekiller üzerinde düzenlemeler yapabilirsiniz.                                   
+-Renk menüsü ile, eklediğiniz şekillerin ve metinlerin renklerini değiştirebilirsiniz.                                                    
+-Ekleyeceğiniz metni 5 farklı fontta yazabilirsiniz.                                                                                            
+-Hazır rozetlerden seçebilir ya da bilgisayarınızdan dilediğiniz resmi ekleyebilirsiniz.                                             
+-Tasarımınıza istediğiniz renkte çizgiler ekleyebilirsiniz.                                                                        
+-Tasarımınız üzerinde değişikler yapabilir.                                                                                          
+-Bitirdikten sonra fotoğraf biçiminde indirebilirsiniz.                                                                                      
+-Kaydettiğiniz takdirde istediğiniz zaman erişim sağlayıp düzenlemelerinize devam edebilirsiniz.                                                   
 ---
 ## QBadge Designer ile Hazırlanmış Rozetler
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/109586205/182085663-cd9afef2-e9b4-49b8-aefa-4e04318729cd.png)
@@ -28,7 +24,6 @@
 ![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/109586205/182085689-9fbb24ca-f2cd-4bbe-aa85-2a4a67ffa65a.png)
 ![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/109586205/182085856-8631add1-6821-4f73-8a00-4c72d55b9d60.png)
 ![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/109586205/182085849-c6919d88-839c-4547-aa17-c9320dc76449.png)
-
 ![MicrosoftTeams-image (7)](https://user-images.githubusercontent.com/109586205/182085866-ddebe1c6-6a89-4697-9dc4-11320e32c932.png)
 ![MicrosoftTeams-image (8)](https://user-images.githubusercontent.com/109586205/182085878-284b30d0-4f37-4a26-80cd-4071f6b1f3b9.png)
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/109586205/182085894-0b68d091-80c3-43f3-a065-30e7bf96ceea.png)
@@ -49,9 +44,6 @@
   + Fabric.js
 - CSS
    + Font Awesome
----
-## Teşekkür
-- [KC TEK Arge Bilişim](https://kc.com.tr/)'e desteklerinden dolayı teşekkür ederiz.
 ---
 ## Yazar
 - İkra ÖZGİRGİN
