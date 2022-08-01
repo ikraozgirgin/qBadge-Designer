@@ -1,0 +1,6 @@
+qBadgeDesigner bir rozet tasarım programı.
+Stajımı da yaptığım Kc-Tek firmasının ürünü olan 'qBadge' için 
+tasarımların yapıldığı bir arayüz.
+Çeşitli şekiller ve metinler ekleyip üzerinde değişiklikler yapabilir,
+Hazır rozet tasarımlarının yanında kendi rozetinizi bilgisayarınızdan
+ekleyip düzenlemelerini yapabilir ve indirebilirsiniz.
