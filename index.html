@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="index.css" >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Badge Design Interface</title>
+   
+
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="logo">
+            <a href="index.html"> <img src="./images/qulak-logo-1.png"height="100px" alt="">
+            </a>
+
+        </div>
+
+    </div>
+
+
+
+    <div class="sidenav">
+        </button>
+        <div class="dropdown">
+            <button class="dropdown-btn"><i class="fa fa-th" aria-hidden="true"></i> Şekil <i
+                    class="fa fa-caret-down"></i>
+            </button>
+            <div id="drpdwn1" class="dropdown-container">
+                <div class="dropdown-inside"><button id="buton_sekil" onclick="createBadge1(canvas)"> <img
+                            id="badgeimg1" width="60" height="60" src="./images/Rozet_1.png" alt=""> </button>
+                    <button id="buton_sekil" onclick="createBadge2(canvas)"> <img id="badgeimg1" width="60" height="60"
+                            src="./images/Rozet_2.png" alt=""> </button>
+                    <button id="buton_sekil" onclick="createBadge3(canvas)"><img id="badgeimg1" width="60" height="60"
+                            src="./images/Rozet_3.png" alt=""> </button>
+                    <button id="buton_sekil" onclick="createPentagon(canvas)"> <img id="badgeimg1" width="60"
+                            height="60" src="./images/Fiyonk.png" alt=""> </button>
+                    <button id="buton_sekil" onclick="createRect(canvas)"><img id="badgeimg1" width="60" height="60"
+                            src="./images/Kare.png" alt=""> </button>
+                    <button id="buton_sekil" onclick="createCirc(canvas)"> <img id="badgeimg1" width="60" height="60"
+                            src="./images/Daire.png" alt=""> </button>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropdown-btn"><i class="fa fa-paint-brush" aria-hidden="true"></i> Renk <i
+                    class="fa fa-caret-down"></i>
+            </button>
+            <div id="drpdwn2" class="dropdown-container">
+                <button><input id="fill" type="color">
+                    <input id="colorbutton" type="submit" value="Boya!"></button>
+            </div>
+        </div>
+        <div class="dropdown">
+            <button class="dropdown-btn"><i class="fa fa-font" aria-hidden="true"></i> Metin <i
+                    class="fa fa-caret-down"></i>
+            </button>
+            <div id="drpdwn3" class="dropdown-container">
+                <button> <input id="text1" type="text"> </button>
+                <button onclick="printText1(canvas)"><img src="./images/Font1.png" alt="" width="150px"></button>
+                <button onclick="printText2(canvas)"><img src="./images/Font2.png" alt="" width="150px"></button>
+                <button onclick="printText3(canvas)"><img src="./images/Font3.png" alt="" width="150px"></button>
+                <button onclick="printText4(canvas)"><img src="./images/Font4.png" alt="" width="150px"></button>
+                <button onclick="printText5(canvas)"><img src="./images/Font5.png" alt="" width="150px"></button>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropdown-btn"><i class="fa fa-picture-o" aria-hidden="true"></i> Resim Ekle <i
+                    class="fa fa-caret-down"></i>
+            </button>
+            <div id="drpdwn4" class="dropdown-container">
+
+                <button id="upload_button1">
+                    <div id="upload_button"><input id='myImage' type="file" accept="image/png, image/jpg"></div>
+                </button>
+                <div class="dropdown-inside">
+                    <button id="buton_sekil" onclick="printImage_1(canvas)"> <img id="badgeimg" width="50px"
+                            height="50px" src="./images/badgeimg_1.png" alt=""></button>
+                    <button id="buton_sekil" id="buton_sekil" onclick="printImage_2(canvas)"> <img id="badgeimg"
+                            width="50px" height="50px" src="./images/badgeimg_2.png" alt=""></button>
+                    <button id="buton_sekil" onclick="printImage_3(canvas)"> <img id="badgeimg" width="50px"
+                            height="50px" src="./images/badgeimg_3.png" alt=""></button>
+                    <button id="buton_sekil" onclick="printImage_4(canvas)"> <img id="badgeimg" width="50px"
+                            height="50px" src="./images/badgeimg_4.png" alt=""></button>
+                    <button id="buton_sekil" onclick="printImage_5(canvas)"> <img id="badgeimg" width="50px"
+                            height="50px" src="./images/badgeimg_5.png" alt=""></button>
+                    <button id="buton_sekil" onclick="printImage_6(canvas)"> <img id="badgeimg" width="50px"
+                            height="50px" src="./images/badgeimg_6.png" alt=""></button>
+                </div>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropdown-btn"><i class="fa fa-minus" aria-hidden="true"></i> Çizgi <i
+                    class="fa fa-caret-down"></i>
+            </button>
+            <div id="drpdwn5" class="dropdown-container">
+                <button onclick="drawLine1(canvas)">Siyah</button>
+                <button onclick="drawLine2(canvas)">Kırmızı</button>
+                <button onclick="drawLine3(canvas)">Yeşil</button>
+                <button onclick="drawLine4(canvas)">Mavi</button>
+
+            </div>
+        </div>
+
+       
+        
+        <div class="buttons">
+            <hr style="fill:  #312e2e; height: 1px;" />
+            <button class="dropdown-btn" id="select" onclick="clearSelectCanvas(canvas)"><i class="fa fa-eraser"
+                    aria-hidden="true"></i>
+                Seçileni Sil
+            </button>
+            <button class="dropdown-btn" id="save" onclick="clearCanvas(canvas)"><i class="fa fa-trash"
+                    aria-hidden="true"></i>
+                Hepsini Sil
+            </button>
+            <button id="download" class="dropdown-btn" onclick="downloadImage(canvas)"><i class="fa fa-download" aria-hidden="true"></i>
+               Çalışmanı İndir
+            </button>
+            <hr style="fill:  #312e2e; height: 1px;" />
+            <button id="download" class="dropdown-btn" onclick="downloadSVG(canvas)"><i class="fa fa-bookmark"
+                aria-hidden="true"></i>
+                Çalışmanı Kaydet
+             </button>
+        </div>
+         <div class="dropdown">
+            <button class="dropdown-btn"> <i class="fa fa-file-o" aria-hidden="true"></i> Çalışma Seç <i
+                    class="fa fa-caret-down"></i>
+            </button>
+        </button>
+        <div id="drpdwn6" class="dropdown-container">
+            <button> <input id='mySVG' type="file" accept="image/svg"> </button>
+            
+        </div>
+    </div>
+        
+
+    </div>
+
+
+
+    <canvas id="canvas"></canvas>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/3.6.2/fabric.min.js"> </script>
+    <script src="index.js"></script>
+
+
+
+</body>
+
+</html>
