@@ -18,7 +18,7 @@
 -Bitirdikten sonra fotoğraf biçiminde indirebilirsiniz.                                                                                      
 -Kaydettiğiniz takdirde istediğiniz zaman erişim sağlayıp düzenlemelerinize devam edebilirsiniz.                                                   
 ---
-## QBadge Designer ile Hazırlanmış Rozetler
+## QBadge Designer İle Hazırlanmış Rozetler
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/109586205/182085663-cd9afef2-e9b4-49b8-aefa-4e04318729cd.png)
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/109586205/182085676-36169ceb-48ec-4f3a-9302-e9f78f785492.png)
 ![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/109586205/182085689-9fbb24ca-f2cd-4bbe-aa85-2a4a67ffa65a.png)
