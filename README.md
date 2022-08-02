@@ -45,6 +45,9 @@
 - CSS
    + Font Awesome
 ---
+## Teşekkür
+- [KC TEK Arge Bilişim](https://kc.com.tr/)'e desteklerinden dolayı teşekkür ederim.
+---
 ## Yazar
 - İkra ÖZGİRGİN
   + [LinkedIn](https://www.linkedin.com/in/ikra-%C3%B6zgirgin-509526231/)
