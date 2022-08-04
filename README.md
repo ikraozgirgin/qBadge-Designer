@@ -1,12 +1,13 @@
-
-![Screenshot_2](https://user-images.githubusercontent.com/69799407/182140763-a0f5cc58-b221-4f7a-8d2e-ff0eb1c39d0e.png)
+![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/69799407/182855737-106ada8e-fd67-47a8-a6e6-fcde79ba628e.png)
+![MicrosoftTeams-image (7)](https://user-images.githubusercontent.com/69799407/182855876-848ec24e-6a1b-4959-95e6-745f9e798167.png)
 ## QBadge ile Sertifika Rozet Hazırlama
  -Rozet hazırlayıp düzenlemek ve indirmek için, HTML, CSS ve Javascript gibi diller ve fabric.js kütüphanesi ile oluşturulan  bir uygulamadır. Kullanımı oldukça basit ve kullanışlıdır. Düzenleme, silme,yapılan işlemi geri alma gibi bir çok özelliğe sahiptir. Sertifika, diploma, başarı belgeleri gibi dokümanlarda rahatlıkla kullanabilirsiniz.
 ---
 ## Arayüz Fotoğrafları
-![qBadge Designer7](https://user-images.githubusercontent.com/69799407/182142915-2907691f-43cc-49c0-a4df-959f6f536726.png)
+![Ana Ekran](https://user-images.githubusercontent.com/69799407/182855415-78d5774c-1e8c-4509-95cd-a721efffc2b6.png)
+![image](https://user-images.githubusercontent.com/69799407/182855370-05c70029-2822-42df-aeb3-0e380770cacf.png)
+![MicrosoftTeams-image (7)](https://user-images.githubusercontent.com/69799407/182860746-c10032dc-07b0-473b-b9d1-4b46c3d98f79.png)
 
-![qBadgeDesigner (3)](https://user-images.githubusercontent.com/69799407/182154720-70865a05-aea3-47f6-91f0-d2822562f586.png)
 ---
 ## Yetenekler
 -Şekil menüsü ile, çeşitli rozet şekilleri ekleyerek, şekiller üzerinde düzenlemeler yapabilirsiniz.                                   
