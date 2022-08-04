@@ -6,8 +6,7 @@
 ## Arayüz Fotoğrafları
 ![Ana Ekran](https://user-images.githubusercontent.com/69799407/182855415-78d5774c-1e8c-4509-95cd-a721efffc2b6.png)
 ![image](https://user-images.githubusercontent.com/69799407/182855370-05c70029-2822-42df-aeb3-0e380770cacf.png)
-![MicrosoftTeams-image (7)](https://user-images.githubusercontent.com/69799407/182860746-c10032dc-07b0-473b-b9d1-4b46c3d98f79.png)
-
+![Dosya Seç](https://user-images.githubusercontent.com/69799407/182860871-ffe1aaec-ca7e-43bf-a2cf-e79af4e5b36c.png)
 ---
 ## Yetenekler
 -Şekil menüsü ile, çeşitli rozet şekilleri ekleyerek, şekiller üzerinde düzenlemeler yapabilirsiniz.                                   
