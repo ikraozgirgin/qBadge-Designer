@@ -30,10 +30,7 @@
 ![w](https://user-images.githubusercontent.com/109586205/182085905-16fee617-ddf0-42cd-9397-89ab438a02dd.png)
 ---
 ## Demo
-- Not: Bu bir demo bağlantısı olduğu için yüklediğiniz dosyalarınız bir süre sonra silinebilir.. Daha sonra [Demo uygulaması]()'nı makinenize yüklemeyi deneyebilirsiniz.
----
-## Dokümantasyon
-- QBadge Designer ile ilgili belgeleri buradan ulaşabilirsiniz.[Link]()
+-[Demo linki](https://ikraozgirgin.github.io/qBadge-Designer/)
 ---
 ## Change Log
 - Herhangi bir değişiklik olduğunda bu başlık altına eklenecektir.
