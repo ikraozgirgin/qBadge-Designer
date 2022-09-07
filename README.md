@@ -30,7 +30,7 @@
 ![w](https://user-images.githubusercontent.com/109586205/182085905-16fee617-ddf0-42cd-9397-89ab438a02dd.png)
 ---
 ## Demo
--[Demo linki](https://ikraozgirgin.github.io/qBadge-Designer/)
+-[qBadge Designer](https://ikraozgirgin.github.io/qBadge-Designer/)
 ---
 ## Change Log
 - Herhangi bir değişiklik olduğunda bu başlık altına eklenecektir.
